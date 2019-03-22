@@ -98,7 +98,6 @@ namespace Annanas
                     }
                 }
             }
-            g.DrawLine(Pens.Red, x + w, y + h/2, );
         }
 
 
